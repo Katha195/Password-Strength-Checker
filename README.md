@@ -15,7 +15,7 @@ No external dependencies required! Uses only Python standard library (re, math)
 
 💻 Usage
 Run the script:
-bashpython PasswordChecker.py
+bashpython PasswordStrength.py
 Enter passwords when prompted:
 Enter password to check (or 'quit' to exit): MyP@ssw0rd123
 The tool will display:
